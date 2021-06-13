@@ -1,5 +1,11 @@
-# Hello :)
+<div align = center><h1> 👋 Hello :) </h1></div>
 ----------------------
+  
+My Gmail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdbsxir@gmail.com)](mailto:skdbsxir@gmail.com)
+  
+My Twitter : [![Twitter Badge](https://img.shields.io/badge/twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Happy_Sky012)](https://twitter.com/Happy_Sky012)
+  
+
 
 | Type                  | Date                    | Contents                                 | Organization                     |
 |-----------------------|-------------------------|------------------------------------------|----------------------------------|
@@ -13,4 +19,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happysky12)](https://solved.ac/happysky12/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skdbsxir&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
