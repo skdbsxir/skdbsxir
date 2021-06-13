@@ -1,6 +1,6 @@
 <div align = center><h1> 👋 Hello :) </h1></div>
   
-### <div align="center">I'm HappySky, dreaming for a capable Data Scientist 😊</div>    
+### <div align="center">I'm HappySky from South Korea, dreaming for a capable Data Scientist 😊</div>    
   
 - My Gmail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdbsxir@gmail.com)](mailto:skdbsxir@gmail.com)
 - My Twitter : [![Twitter Badge](https://img.shields.io/badge/twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Happy_Sky012)](https://twitter.com/Happy_Sky012)
