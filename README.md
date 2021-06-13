@@ -1,4 +1,11 @@
 # Hello :)
+----------------------
+
+| Type                  | Date                    | Contents                                 | Organization                     |
+|-----------------------|-------------------------|------------------------------------------|----------------------------------|
+| Bachelor's<br>Degree  | 2014.03<br>~<br>2021.02 | Department of Software                   | Korea<br>Aerospace<br>University |
+| Trainee               | 2021.06<br>~<br>Now     | Public Big Data Analytics <br>Internship | NIA                              |
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdbsxir&show_icons=true&theme=algolia&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
