@@ -13,7 +13,7 @@
 
 - 2014.03 ~ 2021.02 (Bachelor's Degree)
   
-**✍️ Public Big Data Analytics Intership** <br>
+**✍️ Public Big Data Analytics Internship** <br>
   
 - 2021.06 ~ Now (Trainee)
   
