@@ -15,7 +15,7 @@
   
 **✍️ Public Big Data Analytics Internship** <br>
   
-- 2021.06 ~ Now (Trainee)
+- 2021.06 ~ 2021.07 (Trainee)
   
 </div>
 
