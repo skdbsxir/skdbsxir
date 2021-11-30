@@ -20,7 +20,7 @@
   
 **💼 GoldenPlanet Co., Ltd.**  <br>
 
-- 2021.08 ~ Now  (Junior Manager)
+- 2021.08 ~ 2021.11  (Junior Manager)
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdbsxir@gmail.com)](mailto:chkim@goldenplanet.co.kr)
   
 </div>
