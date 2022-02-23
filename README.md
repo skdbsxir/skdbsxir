@@ -21,7 +21,10 @@
 **💼 GoldenPlanet Co., Ltd.**  <br>
 
 - 2021.08 ~ 2021.11  (Junior Manager)
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdbsxir@gmail.com)](mailto:chkim@goldenplanet.co.kr)
+  
+**💻 Korea Aerospace University, Department of Artificial Intelligence** <br>
+  
+- 2022.03 ~ (Master's Student)
   
 </div>
 
