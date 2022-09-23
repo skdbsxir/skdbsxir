@@ -14,10 +14,6 @@
 
 - 2014.03 ~ 2021.02 (Bachelor's Degree)
   
-**✍️ Public Big Data Analytics Internship** <br>
-  
-- 2021.06 ~ 2021.07 (Trainee)
-  
 **💼 GoldenPlanet Co., Ltd.**  <br>
 
 - 2021.08 ~ 2021.11  (Junior Manager)
