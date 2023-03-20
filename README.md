@@ -10,17 +10,18 @@
 
 <div align=left>
 
-**👨‍🎓 Korea Aerospace University, Department of Software** <br>
+**👨‍🎓 Barchelor's Degree** <br>
 
-- 2014.03 ~ 2021.02 (Bachelor's Degree)
+- 2014.03 ~ 2021.02, **Korea Aerospace University, Department of Software**
   
-**💼 GoldenPlanet Co., Ltd.**  <br>
+**💼 Junior Manager**  <br>
 
-- 2021.08 ~ 2021.11  (Junior Manager)
+- 2021.08 ~ 2021.11, **GoldenPlanet Co., Ltd, Data Analytics Department**
   
-**💻 Korea Aerospace University, Department of Artificial Intelligence** <br>
+**💻 Master's Student** <br>
   
-- 2022.03 ~ (Master's Student)
+- 2022.03 ~ 2023.02, **Korea Aerospace University, Department of Artificial Intelligence**
+- 2023.02 ~ *ongoing*, **Sogang University, Department of Computer Science and Engineering**
   
 </div>
 
