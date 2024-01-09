@@ -10,18 +10,15 @@
 
 <div align=left>
 
+**👨‍🎓 Master's Degree** <br>
+  
+- 2023.03 ~ 2024.02, **Sogang University, Department of Computer Science and Engineering**
+  - 2022.03 ~ 2023.02, **Korea Aerospace University, Department of Artificial Intelligence** (transferred to Sogang University)
+
 **👨‍🎓 Barchelor's Degree** <br>
 
 - 2014.03 ~ 2021.02, **Korea Aerospace University, Department of Software**
-  
-**💼 Junior Manager**  <br>
 
-- 2021.08 ~ 2021.11, **GoldenPlanet Co., Ltd, Data Analytics Department**
-  
-**💻 Master's Student** <br>
-  
-- 2022.03 ~ 2023.02, **Korea Aerospace University, Department of Artificial Intelligence**
-- 2023.02 ~ *ongoing*, **Sogang University, Department of Computer Science and Engineering**
   
 </div>
 
